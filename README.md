@@ -44,19 +44,17 @@ Coming soon...
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-<p align="left">
-  <a href="mailto:rajaboopathy825@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" style="margin-right: 10px;",width="40" height="40" />
+<a href="mailto:rajaboopathy825@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 
-  <a href="https://linkedin.com/in/rajaboopathy-p" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="margin-right: 10px;", width="40" height="40" />
+   <a href="https://linkedin.com/in/rajaboopathy-p" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
-  <a href="https://www.instagram.com/boopxth_y" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="margin-right: 10px;",width="40" height="40" />
+  <a href="https://instagram.com/boopxth_y" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-</p>
 
 ---
 
