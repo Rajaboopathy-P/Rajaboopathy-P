@@ -34,11 +34,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajaboopathy-P&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaboopathy-P&layout=compact&theme=tokyonight" />
-</div>
+Coming soon...
 
 ###
 
