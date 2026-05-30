@@ -45,16 +45,16 @@ Coming soon...
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-   <a href="rajaboopathy825@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
-  </a><br>
-  
+  <a href="mailto:rajaboopathy825@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
   <a href="https://linkedin.com/in/rajaboopathy-p" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
-  </a><br>
-  
-  <a href="https://www.instagram.com/boopxth_y" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+
+  <a href="https://instagram.com/boopxth_y" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
 
