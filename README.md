@@ -46,15 +46,15 @@ Coming soon...
 
 <p align="left">
   <a href="mailto:rajaboopathy825@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" style="margin-right: 10px;",width="40" height="40" />
   </a>
 
   <a href="https://linkedin.com/in/rajaboopathy-p" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" style="margin-right: 10px;", width="40" height="40" />
   </a>
 
   <a href="https://www.instagram.com/boopxth_y" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" style="margin-right: 10px;",width="40" height="40" />
   </a>
 </p>
 
